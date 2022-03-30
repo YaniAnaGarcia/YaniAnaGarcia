@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://github.com/YaniAnaGarcia/YaniAnaGarcia/blob/main/Yanina%20Garcia.jpg"/>
+<img width="100%" src="https://github.com/YaniAnaGarcia/YaniAnaGarcia/blob/main/Imagenes/fondo/Banner%20de%20LinkedIn%20Lugar%20de%20Trabajo%20Ordenado%20(1).png"/>
 
 <h1 align="center">Hola 👋, soy Yanina</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
