@@ -14,7 +14,7 @@
 
 - <a href="https://www.linkedin.com/in/yaninagarcia-fullstackdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yaninagarcia-fullstackdeveloper/" height="20" width="30" /></a>
 
-- <a href="https://twitter.com/YaninaAnaG?t=ceSkCLhhzEmX7n6dCtSItg&s=08"> <img align="center" src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white"  alt="https://twitter.com/YaninaAnaG?t=ceSkCLhhzEmX7n6dCtSItg&s=08" height="20" width="35" //> </a>
+- <a href="https://twitter.com/YaninaAnaG?t=ceSkCLhhzEmX7n6dCtSItg&s=08" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="https://twitter.com/YaninaAnaG?t=ceSkCLhhzEmX7n6dCtSItg&s=08" height="20" width="35" //> </a>
 
 -  Email **yaninagarcia.ana@gmail.com**
 
