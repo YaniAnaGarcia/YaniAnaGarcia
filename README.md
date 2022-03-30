@@ -4,6 +4,15 @@
 <h1 align="center">Hola 👋, soy Yanina</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
 
+ <h2> Un poco sobre mi...</h2>
+- Mujer Tech 💜🧡 Apasionada por el diseño y la tecnologia 👩‍💻
+
+- Aprendiendo ... <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> </a>
+
+
+
+
 <h3 align="left" > Podes encontrarme en :</h3>
 
 <p align="left">
